@@ -5,9 +5,6 @@ dotenv.config();
 const colors = require('colors');
 const port = process.env.PORT;
 const connectDB = require('./db')
-
-dotenv.config();
-
 connectDB();
 
 app.use((req, res, next) => {
