@@ -1,0 +1,30 @@
+Full stack project req
+
+1. login/register {user, superuser}
+2. User data
+3. product {name,price,image,desc}
+4. logout
+
+
+Install Mongo compass
+mongo server
+
+mongodb://127.0.0.1/proj 
+
+PORT = 4000
+MONGO_URI = mongodb://127.0.0.1/IP
+JWT = Aditya
+
+
+https://github.com/krish-7104/MERN-College-Management.git
+https://github.com/tweneboah/book-keeping-app.git 
+https://github.com/DebjitPramanick/Hotel-Booking-Web-App.git
+https://github.com/AdityaShah7867/ecommerce.git
+https://github.com/Abhay3333/Ecommerce.git
+https://github.com/techinfo-youtube/POS-Mern-Stack-Project.git
+https://github.com/techinfo-youtube/Blood-Bank-Mern-Stack-Project.git
+https://github.com/techinfo-youtube/Production-Doctor-Appointment-system.git
+https://github.com/techinfo-youtube/Resturant-website-Reactjs-MUI.git
+https://github.com/AdityaShah7867/To-Do-with-M.E.R.N.git
+https://github.com/arshdeepsingh2267/Gofood.git
+https://github.com/Harshal141/ResumeWorded
